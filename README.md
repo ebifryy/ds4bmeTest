@@ -1,2 +1,3 @@
 # ds4bmeTest
-for assignment 1
+
+This is a change to the readme file
